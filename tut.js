@@ -44,7 +44,7 @@ document.write('Das mit ' +
 				' Zeichen laengste Word lautet: ' +
 				longestWord);
 
-	
+/*	
 //text laenge messen 
 if(text.length > 99999) {
 	//mehr als 100000 Zeichen
@@ -55,7 +55,7 @@ if(text.length > 99999) {
 }else if(text.length == 0){
 	alert("nichs drinn");
 }
-
+*/
 //in die konsole schreiben
 console.log(words);
 	
